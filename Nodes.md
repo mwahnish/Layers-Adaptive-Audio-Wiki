@@ -2,29 +2,29 @@
 <summary>Automation</summary>
 
 + [Animate](Animate)
-+ [Find Snapshot](Find Snapshot)
-+ [Get Mixer Parameter](Get Mixer Parameter)
-+ [Set Mixer Parameter](Set Mixer Parameter)
-+ [Transition To Snapshots](Transition To Snapshots)
++ [Find Snapshot](Find-Snapshot)
++ [Get Mixer Parameter](Get-Mixer-Parameter)
++ [Set Mixer Parameter](Set-Mixer-Parameter)
++ [Transition To Snapshots](Transition-To-Snapshots)
 
 </details>
 
 <details>
 <summary>Flow</summary>
 
-+ [Do If](Do If)
-+ [Do While](Do While)
++ [Do If](Do-If)
++ [Do While](Do-While)
 + [If](If)
-+ [MIDI Channel Filter](MIDI Channel Filter)
-+ [MIDI Multi Filter](MIDI Multi Filter)
-+ [Pick Branch](Pick Branch)
-+ [Pick Random Branch](Pick Random Branch)
++ [MIDI Channel Filter](MIDI-Channel-Filter)
++ [MIDI Multi Filter](MIDI-Multi-Filter)
++ [Pick Branch](Pick-Branch)
++ [Pick Random Branch](Pick-Random-Branch)
 + [Pin](Pin)
 + [Wait](Wait)
-+ [Wait For All](Wait For All)
-+ [Wait For Condition](Wait For Condition)
-+ [Wait For Event](Wait For Event)
-+ [Wait For Scene Load](Wait For Scene Load)
++ [Wait For All](Wait-For-All)
++ [Wait For Condition](Wait-For-Condition)
++ [Wait For Event](Wait-For-Event)
++ [Wait For Scene Load](Wait-For-Scene-Load)
 
 </details>
 
@@ -44,10 +44,10 @@
 + [Add](Add)
 + [Clamp](Clamp)
 + [Divide](Divide)
-+ [Inverse Lerp](Inverse Lerp)
++ [Inverse Lerp](Inverse-Lerp)
 + [Lerp](Lerp)
 + [Multiply](Multiply)
-+ [Random Number](Random Number)
++ [Random Number](Random-Number)
 + [Repeat](Repeat)
 + [Subtract](Subtract)
 
@@ -56,29 +56,29 @@
 <details>
 <summary>Midi Input</summary>
 
-+ [Get Key](Get Key)
-+ [Get Knob](Get Knob)
-+ [MIDI Device](MIDI Device)
++ [Get Key](Get-Key)
++ [Get Knob](Get-Knob)
++ [MIDI Device](MIDI-Device)
 
 </details>
 
 <details>
 <summary>Playback</summary>
 
-+ [Audio Out](Audio Out)
++ [Audio Out](Audio-Out)
 + [Play](Play)
 + [Sampler](Sampler)
-+ [Sub Graph](Sub Graph)
++ [Sub Graph](Sub-Graph)
 
 </details>
 
 <details>
 <summary>Signal Sources</summary>
 
-+ [Click Track](Click Track)
++ [Click Track](Click-Track)
 + [Event](Event)
-+ [Graph Inputs](Graph Inputs)
-+ [Trigger Event](Trigger Event)
++ [Graph Inputs](Graph-Inputs)
++ [Trigger Event](Trigger-Event)
 
 </details>
 
@@ -86,13 +86,13 @@
 <summary>Variables</summary>
 
 + [Array](Array)
-+ [DSP Time](DSP Time)
++ [DSP Time](DSP-Time)
 + [Variable](Variable)
 + [Write](Write)
-+ [Combine Event](Combine Event)
-+ [Split Event](Split Event)
-+ [Combine MIDI Data](Combine MIDI Data)
-+ [Split MIDI Data](Split MIDI Data)
++ [Combine Event](Combine-Event)
++ [Split Event](Split-Event)
++ [Combine MIDI Data](Combine-MIDI-Data)
++ [Split MIDI Data](Split-MIDI-Data)
 + [Combine](Combine)
 + [Split](Split)
 
