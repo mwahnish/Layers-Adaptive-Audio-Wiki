@@ -1,6 +1,5 @@
 <details>
-    <summary>Automation</summary>
-    <br>
+<summary>Automation</summary>
 + Animate
 + Find Snapshot
 + Get Mixer Parameter
@@ -8,8 +7,7 @@
 + Transition To Snapshots
 </details>
 <details>
-    <summary>Flow</summary>
-    <br>
+<summary>Flow</summary>
 + Do If
 + Do While
 + If
@@ -25,16 +23,14 @@
 + Wait For Scene Load
 </details>
 <details>
-    <summary>Logic</summary>
-    <br>
+<summary>Logic</summary>
 + And
 + Comparison
 + Not
 + Or
 </details>
 <details>
-    <summary>Math Operations</summary>
-    <br>
+<summary>Math Operations</summary>
 + Add
 + Clamp
 + Divide
@@ -46,31 +42,27 @@
 + Subtract
 </details>
 <details>
-    <summary>Midi Input</summary>
-    <br>
+<summary>Midi Input</summary>
 + Get Key
 + Get Knob
 + MIDI Device
 </details>
 <details>
-    <summary>Playback</summary>
-    <br>
+<summary>Playback</summary>
 + Audio Out
 + Play
 + Sampler
 + Sub Graph
 </details>
 <details>
-    <summary>Signal Sources</summary>
-    <br>
+<summary>Signal Sources</summary>
 + Click Track
 + Event
 + Graph Inputs
 + Trigger Event
 </details>
 <details>
-    <summary>Variables</summary>
-    <br>
+<summary>Variables</summary>
 + Array
 + DSP Time
 + Variable
