@@ -6,7 +6,7 @@ Input | Type | Description
 ------------ | -------|------
 Start | Event| Begins animating the output value
 Stop | Event | Stops animating the output value, and resets the time on the curve to zero
-Animation Curve | The animation curve representing the output value of the node over time.
+Animation Curve | AnimationCurve | The animation curve representing the output value of the node over time.
 
 ## Outputs
 Output | Type | Description
