@@ -11,6 +11,6 @@
     * Play nodes
     * MIDI editing
     * Sub graphs
-* [Nodes](Nodes.md)
+* [Nodes](Nodes)
 
 
