@@ -1,0 +1,15 @@
+script:
+- |
+  git config user.name "mwahnish"
+  git config user.email "mark@abxygames.com"
+  git remote remove origin
+  git remote add origin https://$GITHUB_API_KEY@github.com/mwahnish/Layers-Adaptive-Audio-Wiki.git > /dev/null 2>&1
+  git remote add upstream https://$GITHUB_API_KEY@github.com/mwahnish/Layers-Adaptive-Audio.wiki.git > /dev/null 2>&1
+  git fetch origin
+  git fetch upstream
+  git merge upstream/master --no-edit
+  git push origin HEAD:master > /dev/null 2>&1
+  git push upstream HEAD:master > /dev/null 2>&1
+env:
+  matrix:
+    secure: f/yQY9V79Fz27Hu2GJZ5tFEzlxEjYX8Opbkw52wfsoowTeRgy8CsRXontf9SWU/ZOTFIZXsjIcj3BEIkpuEPlq2oxRLaU6zI1T3PjiKD1HThTzD6XDFKEi+u2dlQAkmutZn4F0u3PQYyKVlbJJAOp6ZFcKjqIiuGS7wxAvlC8ee0ka83zqjgSRvtz8JqShKqU9RF+fydGUKJb+o80MWbjqnXVkqp7AmdIosGlA64s/f8c+mRD0j65ThBEHuNB0wsLBawUY+0uSIQxar6tSiE9a3z6WQR5DZcVlphuixY3fxlzPf+543rQjBT/jr5mFzMbkh2EYlp5qjeC/L+Arl2EYfUSsMHj+EPfUOdI76KlKeAd07dJe7inqL7y9jQ/02OySV0SCT666lahxoOW72nZUw5xyUnvi8ZhO4qvnOzBNosm0JgdJsRdMK7sd29kUu8nDcZIb+IumzF6X/4OQEr+6ikm5N0sxjj6h3T7eh9yMQwO/95B8f8S6WNS+b/vAry9TDtpJmTiMTdIKls1cQ5MgzmquoXcoLneXMBzPTuhassgLcQZKNE0hJ2Nn0KKL8rh42CJRXTh+AZluKtNU1c9u+gqSBtfvTXSbSJDyl6Rhip21WIVcwoaGeE3d1pWUy71cPcfmJ38w/PRqCH7eQI4qQ84pxlpZSMYzrJzoRbrIY=
