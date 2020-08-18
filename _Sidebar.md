@@ -1,10 +1,16 @@
-<details>
-    <summary>Nodes</summary>
-    * Test1
-    * Test2
-    <details>
-        <summary>Sub nodes!</summary>
-        * Test1
-        * Test2
-    </details>
-</details>
+* Getting started
+    * Download sample project
+    * Creating sound graphs
+    * Playing audio
+    * Adding logic
+    * Playing in the scene
+* Layers in detail
+    * Audio Out
+    * Event parameters
+    * Sound graph players
+    * Play nodes
+    * MIDI editing
+    * Sub graphs
+* Nodes
+
+
