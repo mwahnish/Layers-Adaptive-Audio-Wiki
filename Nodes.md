@@ -1,100 +1,100 @@
 <details>
 <summary>Automation</summary>
 
-+ [Animate](Nodes/Animate)
-+ [Find Snapshot](Nodes/Find Snapshot)
-+ [Get Mixer Parameter](Nodes/Get Mixer Parameter)
-+ [Set Mixer Parameter](Nodes/Set Mixer Parameter)
-+ [Transition To Snapshots](Nodes/Transition To Snapshots)
++ [Animate](Animate)
++ [Find Snapshot](Find Snapshot)
++ [Get Mixer Parameter](Get Mixer Parameter)
++ [Set Mixer Parameter](Set Mixer Parameter)
++ [Transition To Snapshots](Transition To Snapshots)
 
 </details>
 
 <details>
 <summary>Flow</summary>
 
-+ [Do If](Nodes/Do If)
-+ [Do While](Nodes/Do While)
-+ [If](Nodes/If)
-+ [MIDI Channel Filter](Nodes/MIDI Channel Filter)
-+ [MIDI Multi Filter](Nodes/MIDI Multi Filter)
-+ [Pick Branch](Nodes/Pick Branch)
-+ [Pick Random Branch](Nodes/Pick Random Branch)
-+ [Pin](Nodes/Pin)
-+ [Wait](Nodes/Wait)
-+ [Wait For All](Nodes/Wait For All)
-+ [Wait For Condition](Nodes/Wait For Condition)
-+ [Wait For Event](Nodes/Wait For Event)
-+ [Wait For Scene Load](Nodes/Wait For Scene Load)
++ [Do If](Do If)
++ [Do While](Do While)
++ [If](If)
++ [MIDI Channel Filter](MIDI Channel Filter)
++ [MIDI Multi Filter](MIDI Multi Filter)
++ [Pick Branch](Pick Branch)
++ [Pick Random Branch](Pick Random Branch)
++ [Pin](Pin)
++ [Wait](Wait)
++ [Wait For All](Wait For All)
++ [Wait For Condition](Wait For Condition)
++ [Wait For Event](Wait For Event)
++ [Wait For Scene Load](Wait For Scene Load)
 
 </details>
 
 <details>
 <summary>Logic</summary>
 
-+ [And](Nodes/And)
-+ [Comparison](Nodes/Comparison)
-+ [Not](Nodes/Not)
-+ [Or](Nodes/Or)
++ [And](And)
++ [Comparison](Comparison)
++ [Not](Not)
++ [Or](Or)
 
 </details>
 
 <details>
 <summary>Math Operations</summary>
 
-+ [Add](Nodes/Add)
-+ [Clamp](Nodes/Clamp)
-+ [Divide](Nodes/Divide)
-+ [Inverse Lerp](Nodes/Inverse Lerp)
-+ [Lerp](Nodes/Lerp)
-+ [Multiply](Nodes/Multiply)
-+ [Random Number](Nodes/Random Number)
-+ [Repeat](Nodes/Repeat)
-+ [Subtract](Nodes/Subtract)
++ [Add](Add)
++ [Clamp](Clamp)
++ [Divide](Divide)
++ [Inverse Lerp](Inverse Lerp)
++ [Lerp](Lerp)
++ [Multiply](Multiply)
++ [Random Number](Random Number)
++ [Repeat](Repeat)
++ [Subtract](Subtract)
 
 </details>
 
 <details>
 <summary>Midi Input</summary>
 
-+ [Get Key](Nodes/Get Key)
-+ [Get Knob](Nodes/Get Knob)
-+ [MIDI Device](Nodes/MIDI Device)
++ [Get Key](Get Key)
++ [Get Knob](Get Knob)
++ [MIDI Device](MIDI Device)
 
 </details>
 
 <details>
 <summary>Playback</summary>
 
-+ [Audio Out](Nodes/Audio Out)
-+ [Play](Nodes/Play)
-+ [Sampler](Nodes/Sampler)
-+ [Sub Graph](Nodes/Sub Graph)
++ [Audio Out](Audio Out)
++ [Play](Play)
++ [Sampler](Sampler)
++ [Sub Graph](Sub Graph)
 
 </details>
 
 <details>
 <summary>Signal Sources</summary>
 
-+ [Click Track](Nodes/Click Track)
-+ [Event](Nodes/Event)
-+ [Graph Inputs](Nodes/Graph Inputs)
-+ [Trigger Event](Nodes/Trigger Event)
++ [Click Track](Click Track)
++ [Event](Event)
++ [Graph Inputs](Graph Inputs)
++ [Trigger Event](Trigger Event)
 
 </details>
 
 <details>
 <summary>Variables</summary>
 
-+ [Array](Nodes/Array)
-+ [DSP Time](Nodes/DSP Time)
-+ [Variable](Nodes/Variable)
-+ [Write](Nodes/Write)
-+ [Combine Event](Nodes/Combine Event)
-+ [Split Event](Nodes/Split Event)
-+ [Combine MIDI Data](Nodes/Combine MIDI Data)
-+ [Split MIDI Data](Nodes/Split MIDI Data)
-+ [Combine](Nodes/Combine)
-+ [Split](Nodes/Split)
++ [Array](Array)
++ [DSP Time](DSP Time)
++ [Variable](Variable)
++ [Write](Write)
++ [Combine Event](Combine Event)
++ [Split Event](Split Event)
++ [Combine MIDI Data](Combine MIDI Data)
++ [Split MIDI Data](Split MIDI Data)
++ [Combine](Combine)
++ [Split](Split)
 
 </details>
 

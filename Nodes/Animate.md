@@ -12,3 +12,5 @@ Animation Curve | The animation curve representing the output value of the node 
 Input | Description
 ------------ | -------------
 Value | The resulting value of the animation curve over time
+
+> [<- Back to nodes list](Nodes)
