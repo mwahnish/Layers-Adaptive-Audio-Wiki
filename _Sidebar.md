@@ -5,6 +5,7 @@
     * Adding logic
     * Playing in the scene
 * Layers in detail
+    * Event
     * Audio Out
     * Event parameters
     * Sound graph players
