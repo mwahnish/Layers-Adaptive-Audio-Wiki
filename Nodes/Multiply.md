@@ -15,7 +15,9 @@ Result | Varies | The result of this operation
 
 ### Options
 Option | Type | Description
+------------ | -------|------
 Unnamed | Type Selector | The type of the operands for this multiplication operation.
+
 
 ## Mode 2
 This mode is used for Vector3 types
