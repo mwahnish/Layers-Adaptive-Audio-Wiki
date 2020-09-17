@@ -13,6 +13,7 @@ Result | Varies | The output of this operation. The type of this output is set b
 
 ## Options
 Option | Type | Description
+------------ | -------|------
 Unnamed | Type Selector | This option sets the type of the incoming values of the variables list and the output value of the operation.
 
 [<- Back to nodes list](Nodes)

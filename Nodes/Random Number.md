@@ -16,6 +16,7 @@ Value | Float or Integer | The random number. The type of this input changes deo
 
 ## Options
 Option | Type | Description
+------------ | -------|------
 Type | Type Selector | The type of the randomly generated number
 
 [<- Back to nodes list](Nodes)

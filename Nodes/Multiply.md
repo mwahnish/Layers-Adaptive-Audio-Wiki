@@ -32,6 +32,7 @@ Result | Varies | The result of this operation
 
 ### Options
 Option | Type | Description
+------------ | -------|------
 Unnamed | Type Selector | The type of the first number to multiply for this operation.
 Unnamed | Type Selector | The type of the second number to multiply for this operation.
 

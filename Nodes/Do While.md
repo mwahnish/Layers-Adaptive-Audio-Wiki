@@ -18,6 +18,7 @@ Index | Integer | The current iteration count for this node. Note that this show
 
 ## Options
 Option | Type | Description
+------------ | -------|------
 Use Custom Logic | Boolean | If true, iteration is controlled using the condition input. If false, iteration is controlled using the Max Iteration Count Input
 
 [<- Back to nodes list](Nodes)

@@ -14,6 +14,7 @@ Result | Float or Integer | The repeated value. The type of this input changes a
 
 ## Options
 Option | Type | Description
+------------ | -------|------
 Type | Type Selector | The type of the input and output numbers
 
 [<- Back to nodes list](Nodes)

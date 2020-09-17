@@ -15,6 +15,7 @@ Result | Boolean | The result of the given operation
 
 ## Options
 Option | Type | Description
+------------ | -------|------
 Operator | Operation | The operation to perform on Value 1 and Value 2. The result of that operation can be read on the Result output
 
 [<- Back to nodes list](Nodes)

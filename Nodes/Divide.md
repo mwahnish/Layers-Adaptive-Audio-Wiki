@@ -32,6 +32,7 @@ Result | Varies | The result of this operation
 
 ### Options
 Option | Type | Description
+------------ | -------|------
 Unnamed | Type Selector | The type of the numerator for this operation.
 Unnamed | Type Selector | The type of the denominator for this operation.
 

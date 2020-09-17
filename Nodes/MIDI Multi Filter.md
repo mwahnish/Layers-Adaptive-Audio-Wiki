@@ -13,6 +13,7 @@ Note name | Event | The outgoing event for the given note. The number of these e
 
 ## Options
 Option | Type | Description
+------------ | -------|------
 Start Note | Integer | The first note in the range of notes this node will display an event for
 End Note | Integer | The last note in the range of notes this node will display an event for
 
