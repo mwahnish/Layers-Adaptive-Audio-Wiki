@@ -8,6 +8,6 @@ If any variables in the subgraph are set to be exposed As Input or As Output, th
 IF any events in the subgraph are set to exposed, they will appear in the subgraph node. Each exposed subgraph event will show an input event and output event in the Subgraph node. Trigger the input to call the event in the subgraph, or connect to the output to listen for when the event is triggered.
 
 ## End All
-The end all input is a special utility event. Triggering the event stops all playback in the subgraph
+The End All input is a special utility event. Triggering the event stops all playback in the subgraph
 
 [<- Back to nodes list](Nodes)
