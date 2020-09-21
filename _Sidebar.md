@@ -9,7 +9,7 @@
     * Variables, Constants and other Data
     * [Audio Outs](Audio-Outs)
     * Sound graph players
-    * Play nodes
+    * [Play nodes](Play-Nodes)
     * MIDI editing
     * Sub graphs
     * Mixing
