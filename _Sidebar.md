@@ -7,7 +7,7 @@
 * Layers in detail
     * [Events](Events)
     * Variables, Constants and other Data
-    * Audio Outs
+    * [Audio Outs](Audio-Outs)
     * Sound graph players
     * Play nodes
     * MIDI editing
