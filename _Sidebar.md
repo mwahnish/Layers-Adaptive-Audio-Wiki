@@ -5,9 +5,9 @@
     * Adding logic
     * Playing in the scene
 * Layers in detail
-    * Event
-    * Audio Out
-    * Event parameters
+    * [Events](Events)
+    * Variables, Constants and other Data
+    * Audio Outs
     * Sound graph players
     * Play nodes
     * MIDI editing
