@@ -4,14 +4,14 @@ Sets the value of the given Unity Mixer parameter
 ## Inputs
 Input | Type | Description
 ------------ | ------|-------
-Write | Event | When this event is triggered, the node will read the Value port and assign that value to the given Unity Mixer parameter
+Write | Event | This event triggers the write operation
 Mixer | Audio Mixer| The Unity Mixer the parameter belongs to
 Name | String | The name of the parameter
-Value | Float | The new value of the parameter
+Value | Float | The value to write to the parameter
 
 ## Outputs
 Output | Type| Description
 ------------ | -------|------
-Value | Float | The value of the parameter
+Write Finished | Event | This event is triggered when the write has completed
 
 [<- Back to nodes list](Nodes)

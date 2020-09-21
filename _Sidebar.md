@@ -12,6 +12,7 @@
     * Play nodes
     * MIDI editing
     * Sub graphs
+    * Mixing
 * [Nodes](Nodes)
 
 
