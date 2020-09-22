@@ -7,7 +7,7 @@
 * Layers in detail
     * [Sound graphs](Sound-Graphs)
     * [Events](Events)
-    * Variables, constants and other data
+    * [Variables](Variables)
     * [Play nodes](Play-Nodes)
     * [Audio outs](Audio-Outs)
     * [Sub graphs](Sub-Graphs)

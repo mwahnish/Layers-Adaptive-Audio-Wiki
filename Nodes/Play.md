@@ -1,6 +1,8 @@
 ## About
 The Play node is the primary method of sequencing and playing audio and MIDI. It is also capable of sequencing events.
 
+![Play Nodes Example](IMG/PlayNodesExample.png)
+
 ## The Play Node Timeline
 The Play node timeline is where sequencing for the Play Node takes place. Press the Open button to open the timeline.
 
@@ -10,7 +12,7 @@ In the middle of the Play Node Timeline window is the track area for the Play No
 On the left hand side of each track are the track controls. The volume and pan can be adjusted per track. Tracks can also be named for organization purposes. Clicking on the Eye icon, users can set the track to visible, which displays the track and its audio and event outputs on the Play Node.
 
 ### Timeline elements
-The timeline window support several different element types. 
+The timeline window support several different element types.
 
 #### Audio Clip
 Audio clips can be dragged into the timeline from the Unity Project browser, or by right clicking on the timeline and selecting Add Audio Clip. Audio Clips play through the Audio Out output in the Play node's Combined Audio Bus, as well as the track's Audio Out if the track is exposed in the Play node. Advanced options for the audio clip can be accessed by right clicking and selecting edit. The following options are available:
@@ -56,14 +58,14 @@ At the top of the window is the BPM and Time signature bar. Time signatures and 
 At the bottom right of the Play Node Timeline are the snapping controls. Snapping can be performed using a variety of time divisions, all based on the BPM and Time signatures set in the time signature and BPM area. Timeline elements can also snap to the start and end of other timeline elements. To activate snapping, hold CTRL while dragging.
 
 ### Playback controls
-The bottom left of the timeline window contains the timeline's playback controls. Playback can be previewed both in edit mode and play mode. 
+The bottom left of the timeline window contains the timeline's playback controls. Playback can be previewed both in edit mode and play mode.
 
 Next to the play back controls are settings for Audio Preview and Event Preview. These options perform the following functions:
-* Audio Preview - If Play Audio Using Node Settings is selected, audio will play through the Audio Outs connected to the play node when previewing. If the user wants to preview audio without playing it through Audio Outs, they can set the window to Play All Audio. 
+* Audio Preview - If Play Audio Using Node Settings is selected, audio will play through the Audio Outs connected to the play node when previewing. If the user wants to preview audio without playing it through Audio Outs, they can set the window to Play All Audio.
 * Event Preview - By default, Events are disabled when previewing playback in the timeline window. This is to prevent unintended activation of subsequent nodes in the sound graph. If the user wishes preview playback including subsequent nodes, set this dropdown to Play On Node.
 
 ### Dynamic Data Swapping
-Dynamic data swapping enables the user to swap out Audio Clips and MIDI files at runtime. To enable this feature, add a Audio Clip or MIDI file to the timeline, right click on it, select edit, and check the Expose In Node option. The Play node will now have an input for swapping out the Audio Clip or MIDI file. When Expose In Node is checked, a Label option is also displayed in the timeline element options. This label identifies this item in the Play node and the Timeline. 
+Dynamic data swapping enables the user to swap out Audio Clips and MIDI files at runtime. To enable this feature, add a Audio Clip or MIDI file to the timeline, right click on it, select edit, and check the Expose In Node option. The Play node will now have an input for swapping out the Audio Clip or MIDI file. When Expose In Node is checked, a Label option is also displayed in the timeline element options. This label identifies this item in the Play node and the Timeline.
 
 ### Other controls
 * Hold shift and click to select multiple items
@@ -71,7 +73,7 @@ Dynamic data swapping enables the user to swap out Audio Clips and MIDI files at
 * The delete key deletes items
 * Hold ctrl and scroll to zoom
 
-## Combine Audio Bus
+## Combined Audio Bus
 The Combined Audio Bus controls playback for the entire node, and outputs all audio and events for the node. Here are the inputs and outputs for the Combine Audio Bus
 
 ### Inputs
