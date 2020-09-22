@@ -14,7 +14,7 @@
     * [Sound graph playback](Sound-Graph-Playback)
     * [Code generation](Code-Generation)
     * [API](API)
-    * MIDI editing
+    * [MIDI editing](MIDIEditing)
     * [Mixing](Mixing)
 * [Nodes](Nodes)
 
