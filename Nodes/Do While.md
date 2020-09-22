@@ -5,7 +5,7 @@ This node is used to create loops. It evaluates a condition when triggered. If t
 Input | Type | Description
 ------------ | ------|-------
 Enter | Event | Triggers evaluation of the condition. Depending on the condition's value, Continue Loop or Condition Reached may be triggered
-Max Iteration Count | Integer | (Displayed when Use Custom Logic is unchecked) The number of times this node can be executed before Condition Reached will be triggered 
+Max Iteration Count | Integer | (Displayed when Use Custom Logic is unchecked) The number of times this node can be executed before Condition Reached will be triggered
 Condition | Boolean| (Displayed when Use Custom Logic is checked) The value read when the Enter input is triggered. If True, Condition reached is triggered. When False, Continue Loop is triggered
 Reset Iterations | Event | Resets this node's iteration count
 

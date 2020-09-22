@@ -8,13 +8,13 @@
     * Sound graphs
     * [Events](Events)
     * Variables, constants and other data
+    * [Play nodes](Play-Nodes)
     * [Audio outs](Audio-Outs)
+    * [Sub graphs](Sub-Graphs)
     * [Sound graph playback](Sound-Graph-Playback)
     * [Code generation](Code-Generation)
     * [API](API)
-    * [Play nodes](Play-Nodes)
     * MIDI editing
-    * [Sub graphs](Sub-Graphs)
     * [Mixing](Mixing)
 * [Nodes](Nodes)
 
