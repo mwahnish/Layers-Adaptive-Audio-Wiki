@@ -8,10 +8,11 @@
     * [Events](Events)
     * Variables, Constants and other Data
     * [Audio Outs](Audio-Outs)
-    * Sound graph players
+    * Sound graph playback
+    * Code generation
     * [Play nodes](Play-Nodes)
     * MIDI editing
-    * Sub graphs
+    * [Sub graphs](Sub-Graphs)
     * Mixing
 * [Nodes](Nodes)
 
