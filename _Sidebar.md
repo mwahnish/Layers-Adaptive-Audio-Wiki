@@ -5,7 +5,7 @@
     * Adding logic
     * Playing in the scene
 * Layers in detail
-    * Sound graphs
+    * [Sound graphs](Sound-Graphs)
     * [Events](Events)
     * Variables, constants and other data
     * [Play nodes](Play-Nodes)
