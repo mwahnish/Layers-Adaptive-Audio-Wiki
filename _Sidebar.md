@@ -9,8 +9,9 @@
     * [Events](Events)
     * Variables, constants and other data
     * [Audio outs](Audio-Outs)
-    * Sound graph playback
-    * Code generation
+    * [Sound graph playback](Sound-Graph-Playback)
+    * [Code generation](Code-Generation)
+    * [API](API)
     * [Play nodes](Play-Nodes)
     * MIDI editing
     * [Sub graphs](Sub-Graphs)
