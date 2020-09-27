@@ -6,6 +6,7 @@ Input | Type | Description
 ------------ | ------|-------
 Begin Wait | Event | Once this event is triggered, the node will wait for a scene with the given name to load. Once the scene is loaded, the End Wait output will be triggered
 Scene Name | String | The scene name this node will wait for before the End event is triggered. The value for this input can be set on the node, be read from the incoming port, or from an incoming event parameter on Begin Wait
+Reset | Event | If this node is waiting for a scene to load, triggering this event will reset that wait. End Wait will not be triggered
 
 
 ## Outputs

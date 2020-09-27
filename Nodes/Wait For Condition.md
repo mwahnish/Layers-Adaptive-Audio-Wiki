@@ -6,6 +6,7 @@ Input | Type | Description
 ------------ | ------|-------
 Start | Event | Once this event is triggered, the node begins waiting
 Condition | Boolean | When this node is triggered, it waits for this input to be True before triggering End
+Reset | Event | If this node is waiting for a condition, triggering this event will reset that wait. End will not be triggered
 
 ## Outputs
 Output | Type| Description

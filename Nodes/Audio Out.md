@@ -10,7 +10,7 @@ Pitch | Float | This control enables the user to pitch-shift incoming volume. It
 Stereo Pan | Float | This control influences how much of the sound plays through the left or right speakers. Note that nodes that output audio may have their own pan controls that influence their final panning. This input is hidden when the Settings Source option is set to Input.
 Audio Mixer Group | Audio Mixer Group | The audio mixer group that incoming audio will play through. This input is hidden when the Settings Source option is set to Input.
 Bypass Effects | Boolean | Incoming audio will bypass effects when true. The effects may be from filter components or global listener filters. This input is hidden when the Settings Source option is set to Input.
-Bypass Listener | Boolean | Bypasses global effects on the audio listener when true. This input is hidden when the Settings Source option is set to Input.
+Bypass Listener Effects | Boolean | Bypasses global effects on the audio listener when true. This input is hidden when the Settings Source option is set to Input.
 Bypass Reverb Zones | Boolean | When True, reverb zones are not applied to audio played through this Audio Out. This input is hidden when the Settings Source option is set to Input.
 Priority | Integer | Unity virtualizes audio sources when more audio sources are in use then available hardware channels. This control influences which audio sources are virtualized first. It ranges from 0 to 255. This input is hidden when the Settings Source option is set to Input.
 World Position | Vector3 | The world position that incoming audio will play at. Note that this option is only available when the Play at Transform input has no value. This input is hidden when the Settings Source option is set to Input.

@@ -16,7 +16,7 @@
 + [Do While](Do-While)
 + [If](If)
 + [MIDI Channel Filter](MIDI-Channel-Filter)
-+ [MIDI Multi Filter](MIDI-Multi-Filter)
++ [MIDI Note Range Filter](MIDI-Note-Range-Filter)
 + [Pick Branch](Pick-Branch)
 + [Pick Random Branch](Pick-Random-Branch)
 + [Pin](Pin)
@@ -58,7 +58,7 @@
 
 + [Get Key](Get-Key)
 + [Get Knob](Get-Knob)
-+ [MIDI Device](MIDI-Device)
++ [MIDI Input](MIDI-Input)
 
 </details>
 
