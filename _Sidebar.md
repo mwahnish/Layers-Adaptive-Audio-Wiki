@@ -1,4 +1,5 @@
-* Getting started
+* [Getting started](Getting-Started)
+    * Installing Layers
     * Download sample project
     * Creating sound graphs
     * Playing audio
