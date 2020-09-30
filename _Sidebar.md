@@ -1,11 +1,11 @@
 * [Getting started](Getting-Started)
-    * Installing Layers
-    * Download sample project
-    * Creating sound graphs
-    * Playing audio
-    * Adding logic
-    * Playing in the scene
-* Layers in detail
+    * [Installing Layers](Installing-Layers)
+    * [ Setting up audio](Setting-Up-Audio)
+    * [Creating sound graphs](Creating-Sound-Graphs)
+    * [Playing audio](Playing-Audio)
+    * [Adding logic](Adding-Logic)
+    * [Playing in the scene](Playing-in-the-Scene)
+* [Layers in detail](Layers-In-Detail)
     * [Sound graphs](Sound-Graphs)
     * [Events](Events)
     * [Variables](Variables)
