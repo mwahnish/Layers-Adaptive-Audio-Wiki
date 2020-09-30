@@ -67,7 +67,7 @@
 
 + [Audio Out](Audio-Out)
 + [Play](Play)
-+ [Sampler](Sampler)
++ [Sampler](Sampler-Track)
 + [Sub Graph](Sub-Graph)
 
 </details>
@@ -85,8 +85,7 @@
 <details>
 <summary>Variables</summary>
 
-+ [Array](Array)
-+ [DSP Time](DSP-Time)
++ [DSP Time](Digital-Signal-Processor-Time)
 + [Variable](Variable)
 + [Write](Write)
 + [Combine Event](Combine-Event)
