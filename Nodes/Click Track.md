@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node outputs a click track signal based on the inputs.
 

@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node subtracts the given inputs together in the variables list. The output of this operation can be read on the Result output
 

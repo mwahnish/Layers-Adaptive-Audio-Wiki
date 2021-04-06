@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 When this node is executed, a random number between the From and To inputs is generated. This number can be read on the Random Number output.
 

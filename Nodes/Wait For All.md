@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 When all input events in the In list are triggered, the Out event is triggered
 

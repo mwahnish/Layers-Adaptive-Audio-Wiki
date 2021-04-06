@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 # About
 The primary way of interacting with Layers via code are through the generated Player Component API's. In short, player components are responsible for executing Sound Graphs in a scene. There are two kinds, Sound Graph Player Components and Pooled Sound Graph Player Components. The difference between the two is Pooled Sound Graph Player Components share instances of the Sound Graph to save resources, while each Sound Graph Player Component is backed by it's own copy of its Sound Graph Asset. See [here](Sound-Graph-Playback) for more information on the different kinds of Player Components.
 

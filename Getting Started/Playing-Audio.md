@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 Lets add and play some audio!
 
 ## Adding a Play node

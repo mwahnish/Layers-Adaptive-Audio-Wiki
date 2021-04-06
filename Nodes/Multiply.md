@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node performs multiplication on the inputs. The Multiply node has multiple modes depending on the selected input type. For example, the Float type can be multiplied by floats, so the Multiply node presents a list of float inputs, where the first gets Multiplied by the second, which gets multiplied by the third, etc. Vector3s on the other hand can be multiplied by other Vector3s as well as numeric types. In this case a secondary type selector is shown so the user can select the operand type.
 

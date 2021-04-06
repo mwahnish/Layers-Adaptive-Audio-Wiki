@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 ![Play Nodes Example](IMG/PlayNodesExample.png)
 

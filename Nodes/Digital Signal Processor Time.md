@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node gets the current time on the Digital Signal processor
 

@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Compares the Value 1 input to the Value 2 input, according to the given Operator. The Result output is True or False, depending on that comparison.
 

@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 The Combine MIDI Data node receives a note number, channel number, and velocity, and outputs a MIDI Data object
 

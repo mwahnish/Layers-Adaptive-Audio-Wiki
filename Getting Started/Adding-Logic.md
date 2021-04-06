@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 Currently, all of our audio plays simultaneously, and they only play once. Let's make things more interesting! First, lets make our audio loop.
 
 ## Looping audio

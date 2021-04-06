@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node picks a random output to trigger when executed
 

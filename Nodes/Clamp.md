@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node clamps the value on the Value input between Min and Max 
 

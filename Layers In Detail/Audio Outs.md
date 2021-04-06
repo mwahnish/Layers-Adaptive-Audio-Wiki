@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 ![Audio Out Node Example](IMG/AudioOutNodeExample.png)
 

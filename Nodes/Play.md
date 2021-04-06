@@ -1,4 +1,11 @@
+---
+typora-root-url:../
+---
+
+
+
 ## About
+
 The Play node is the primary method of sequencing and playing audio and MIDI. It is also capable of sequencing events.
 
 ![Play Nodes Example](IMG/PlayNodesExample.png)

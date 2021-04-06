@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node picks a branch to trigger when executed. The chosen branch depends on the Selected Branch input
 

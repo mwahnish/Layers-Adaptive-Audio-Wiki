@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node provides a simple way to break out an incoming event by its MIDI note number
 

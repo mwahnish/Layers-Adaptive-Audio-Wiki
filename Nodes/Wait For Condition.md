@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 When the Start input is triggered, this node waits until the Condition input is true. Once the condition is True, the End Event is triggered
 

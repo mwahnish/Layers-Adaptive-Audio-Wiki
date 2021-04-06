@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 The Sub Graph node enables the user to embed Sound Graphs within Sound Graphs. This is useful for reusing functions and processes across Sound Graphs and keeping individial graphs from getting too complex. To get started with a Sub Graph, select a Sound Graph using the Sub Graph field on the Sub Graph node, or click the New SubGraph button to create a new one.
 

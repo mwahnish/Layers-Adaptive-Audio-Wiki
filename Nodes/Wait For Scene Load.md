@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 When a scene loads, it often causes a temporary hitch in the framerate. If audio is started at the same time, it can be delayed, which can cause problems when future audio is scheduled to play. Rather than playing audio as soon is it loads, it is wise to wait until the scene is loaded and then play audio. This node allows the user to wait for a scene to load before continuing execution
 

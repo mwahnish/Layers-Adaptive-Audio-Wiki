@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 When the Enter input is triggered, this node waits a set amount of time. After that time, the Exit output is triggered
 

@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Evaluates a condition when triggered, and continues execution if that condition is true
 

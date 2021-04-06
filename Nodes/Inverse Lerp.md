@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node performs an inverse linear interpolation on the input values. It takes an input number from Value, ranging from 0 to 1, and maps it to a value between the From input and the To input
 

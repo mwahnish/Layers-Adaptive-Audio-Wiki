@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Layers uses code generation to create custom Sound Graph players for every Sound Graph. To learn more about custom players, see [here](Sound-Graph-Playback). Generated code is written to the directory specified by the Generated Code Directory setting. Typically this directory is setup is specified when Layers is first installed to a project. To change the directory after installation, open Project Settings, enter the Layers Settings tab, and change the Generate Code Directory setting.
 

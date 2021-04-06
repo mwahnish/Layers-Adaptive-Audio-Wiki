@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node contains the named variables and events for the entire graph. This node is required in all sound graphs, cannot be deleted, and there can only be one per graph. 
 
@@ -45,6 +49,7 @@ The Events list contains all of the named variables for this sound graph. Events
         * Transform
         * Vector 3
         
+
 In addition to user-defined events, this node exposes one pre-defined event, Update. Update is triggered every frame.
 
 ## Pooling sound graphs

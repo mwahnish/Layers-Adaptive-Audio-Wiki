@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Transitions the Audio Mixer to a weighted mix of snapshots over time
 

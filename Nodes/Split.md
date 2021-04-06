@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Some types can be split into several components. For example, a Vector 3 is made up of 3 Floats. This node splits an incoming type and enables the user to access its components. The following types are supported:
 

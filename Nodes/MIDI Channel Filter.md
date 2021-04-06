@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node filters incoming events by its MIDI channel
 

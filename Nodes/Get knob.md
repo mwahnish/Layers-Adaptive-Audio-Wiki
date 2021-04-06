@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node generates an event when a Knob on a MIDI deviced attached to this machine is interacted with.
 

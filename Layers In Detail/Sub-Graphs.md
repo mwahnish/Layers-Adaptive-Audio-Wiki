@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 
 ![Sub Graph Example](IMG/SubGraphExample.png)

@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Animates an output value over time, according to an animation curve
 

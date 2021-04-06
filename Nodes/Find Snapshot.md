@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Gets a reference to a Unity Audio Mixer snapshot
 

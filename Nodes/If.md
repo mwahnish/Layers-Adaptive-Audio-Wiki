@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 When triggered, this node chooses one output event or the other depending on an input condition
 

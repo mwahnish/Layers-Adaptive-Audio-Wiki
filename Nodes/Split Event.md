@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node receives an event and splits it into an output event, MIDI Data, and Parameters
 

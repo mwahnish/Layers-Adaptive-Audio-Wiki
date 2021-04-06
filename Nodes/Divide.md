@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node performs division on the inputs. The Divide node has multiple modes depending on the selected input type. For example, the Float type can be divide by floats, so the Divide node presents a list of float inputs, where the first gets divided by the second, which gets divided by the third, etc. Vector3s on the other hand can be divided by other Vector3s as well as numeric types. In this case a secondary type selector is shown so the user can select the divisor type.
 

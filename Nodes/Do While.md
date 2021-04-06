@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 This node is used to create loops. It evaluates a condition when triggered. If that condition is met, the Condition Reached output is triggered. Otherwise, Continue Loop is triggered. That condition may be an iteration count, or custom logic.
 

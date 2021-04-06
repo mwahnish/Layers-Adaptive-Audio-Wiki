@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 ## About
 Sets the value of the given Unity Mixer parameter
 

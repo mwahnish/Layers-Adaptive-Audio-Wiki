@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 We've now created a Sound Graph Asset, but we still need to get that Sound Graph in a scene and playing. To play a Sound Graph in a scene, a [Sound Graph Player](Sound-Graph-Playback) is used. Layers generates a unique Sound Graph Player for every Sound Graph (which is why we set a code generation directory when we installed Layers). This makes the Sound Graph Player easier to control from code. For more information, see the [Code Generation](Code-Generation) and [API](API) documentation.
 
 By now, you've probably spotted the following message in the bottom left corner of the Sound Graph editor window:

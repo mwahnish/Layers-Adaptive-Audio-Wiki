@@ -1,3 +1,7 @@
+---
+typora-root-url:../
+---
+
 Let's make your first Sound Graph! Sound Graphs define the logic for how audio is played in your scenes. Sound graphs are assets that are located in your project, and can be re-used as many times as you like, in any scene. You can make as many Sound Graphs as you like - for example, you may have one Sound Graph running your background music, and another for controlling sound effects for a player controller.
 
 To create a Sound Graph, right click in your project window and click Create->Sound graph. Name it Tutorial Graph for this tutorial.
