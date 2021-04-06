@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Variable Node
+
 ## About
+
 The Variable node allows data to be used in the graph, either from named variables from the Graph Input node, or as a constant defined on the Variable node.
 
 ## Constant mode

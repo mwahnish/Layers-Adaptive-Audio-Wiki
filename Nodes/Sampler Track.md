@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Sampler Track Node
+
 ## About
+
 This node takes events with MIDI information in, and plays a sample based on that event's note number
 
 ## Inputs

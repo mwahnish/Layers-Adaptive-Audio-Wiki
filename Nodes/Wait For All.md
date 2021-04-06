@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Wait for All Node
+
 ## About
+
 When all input events in the In list are triggered, the Out event is triggered
 
 ## Inputs

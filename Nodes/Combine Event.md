@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Combine Event Node
+
 ## About
+
 This node receives an event and produces an output event with appended MIDI Data and Parameters
 
 ## Inputs

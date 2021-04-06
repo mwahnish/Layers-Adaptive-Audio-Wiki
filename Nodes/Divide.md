@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Divide Node
+
 ## About
+
 This node performs division on the inputs. The Divide node has multiple modes depending on the selected input type. For example, the Float type can be divide by floats, so the Divide node presents a list of float inputs, where the first gets divided by the second, which gets divided by the third, etc. Vector3s on the other hand can be divided by other Vector3s as well as numeric types. In this case a secondary type selector is shown so the user can select the divisor type.
 
 ## Mode 1
@@ -18,8 +21,10 @@ Output | Type| Description
 Result | Varies | The result of this operation
 
 ### Options
-Option | Type | Description
-Unnamed | Type Selector | The type of the numerators and denominators for this division operation.
+
+| Option  | Type          | Description                                                  |
+| ------- | ------------- | ------------------------------------------------------------ |
+| Unnamed | Type Selector | The type of the numerators and denominators for this division operation |
 
 ## Mode 2
 This mode is used for Vector3 types

@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Transition To Snapshots Node
+
 ## About
+
 Transitions the Audio Mixer to a weighted mix of snapshots over time
 
 ## Inputs

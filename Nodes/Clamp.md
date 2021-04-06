@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Clamp Node
+
 ## About
+
 This node clamps the value on the Value input between Min and Max 
 
 ## Inputs

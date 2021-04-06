@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# MIDI Channel Filter Node
+
 ## About
+
 This node filters incoming events by its MIDI channel
 
 ## Inputs

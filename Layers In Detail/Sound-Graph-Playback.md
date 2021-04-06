@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Sound Graph Playback
+
 ## About
+
 Player components are how Sound Graphs are played in a scene. There are two different kinds of player components, a Sound Graph Player component, and a Pooled Sound Graph Player Component. Both take an input Sound Graph and use it to play back audio in a scene. The Sound Graph defines the logic behind how audio plays, and the Player component provides interfaces in code and the editor for triggering events and accessing variables.
 
 ## Sound Graph Players and Pooled Sound Graph Players

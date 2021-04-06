@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Add Node
+
 ## About
+
 This node adds the given inputs together in the variables list. The output of this operation can be read on the Result output
 
 ## Inputs

@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Get Key Node
+
 ## About
+
 This node generates an event when a note on a MIDI deviced attached to this machine is interacted with.
 
 ## Outputs

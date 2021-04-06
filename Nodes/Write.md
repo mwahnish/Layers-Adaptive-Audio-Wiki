@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Write Node
+
 ## About
+
 The Write node writes an incoming value to the given named variable in the Graph Input node. 
 
 ## Inputs

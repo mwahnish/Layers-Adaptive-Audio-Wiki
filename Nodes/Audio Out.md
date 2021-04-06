@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Audio Out Node
+
 ## About
+
 Nodes that generate audio, like the Play or Sampler nodes, send audio to Audio Out nodes for playback. The Audio Out node has all of the controls determining how audio is played back, like the final playback volume, pan, position, the output mixer, spatialization, etc.
 
 ## Inputs

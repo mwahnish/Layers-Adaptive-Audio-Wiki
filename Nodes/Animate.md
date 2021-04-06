@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Animate Node
+
 ## About
+
 Animates an output value over time, according to an animation curve
 
 ## Inputs

@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Or Node
+
 ## About
+
 When any input into this node are True, the Value output reads True. Otherwise, the Value output reads False
 
 ## Inputs

@@ -1,8 +1,11 @@
 ---
-typora-root-url:../typora-root-url:../
+typora-root-url:../
 ---
 
+# Sound Graph
+
 ## About
+
 Sound Graphs are the heart of Layers. Sound Graphs are assets that define the logic that governs how audio is played. Sound Graphs can be thought of like a flow chart. One node of the Sound Graph triggers the next. Sometimes a node may perform an action, like playing audio, or making a computation. Other times, it may decide what branch to take. In this way, Sound Graphs enable you to create incredibly dynamic audio systems from very simple components.
 
 ![SoundGraphExample.png](IMG/SoundGraphExample.png)

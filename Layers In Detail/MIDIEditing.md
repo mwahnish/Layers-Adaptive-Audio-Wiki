@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# MIDI Editing
+
 ## About
+
 Layers has full MIDI Import and editing support. MIDI files can be directly imported as an asset. New MIDI files can be created by right clicking in the Project browser and selecting Create->MIDI Asset.
 
 ## Editing MIDI Assets

@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# MIDI Note Range Filter Node
+
 ## About
+
 This node provides a simple way to break out an incoming event by its MIDI note number
 
 ## Inputs

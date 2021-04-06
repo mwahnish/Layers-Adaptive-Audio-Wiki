@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# MIDI Input
+
 ## About
+
 This node generates an event whenever any control on any attached MIDI device is interacted with
 
 ## Outputs

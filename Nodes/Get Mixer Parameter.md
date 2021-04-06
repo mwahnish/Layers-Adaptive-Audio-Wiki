@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Get Mixer Parameter Node
+
 ## About
+
 Gets the value of the given Unity Mixer parameter
 
 ## Inputs

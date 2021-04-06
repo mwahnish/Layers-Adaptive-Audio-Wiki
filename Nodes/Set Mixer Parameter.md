@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Set Mixer Parameter Node
+
 ## About
+
 Sets the value of the given Unity Mixer parameter
 
 ## Inputs

@@ -2,6 +2,8 @@
 typora-root-url:../
 ---
 
+# Sub Graphs
+
 ## About
 
 ![Sub Graph Example](IMG/SubGraphExample.png)

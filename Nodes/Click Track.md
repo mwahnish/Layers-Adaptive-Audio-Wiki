@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Click Track Node
+
 ## About
+
 This node outputs a click track signal based on the inputs.
 
 ## Inputs

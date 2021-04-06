@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Split Event Node
+
 ## About
+
 This node receives an event and splits it into an output event, MIDI Data, and Parameters
 
 ## Inputs

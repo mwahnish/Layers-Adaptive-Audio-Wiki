@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Wait for Event Node
+
 ## About
+
 When the Start input is triggered, this node waits until the the given event has also been triggered. Once this has occurred, the End output is triggered
 
 ## Inputs

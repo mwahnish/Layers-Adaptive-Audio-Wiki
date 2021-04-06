@@ -2,7 +2,10 @@
 typora-root-url:../
 ---
 
+# Split MIDI Data Node
+
 ## About
+
 The Split MIDI Data node receives MIDI data object and splits it into a note number, channel number, and velocity
 
 ## Inputs
