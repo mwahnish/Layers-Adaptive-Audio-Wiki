@@ -11,11 +11,11 @@ First, lets add a [Play node](Play-Nodes) to the graph. As the name suggests, Pl
 
 To add a Play node to the Sound Graph, right click anywhere in the Sound Graph, and click Playback -> Play. A play node will appear in your Sound Graph.
 
-![Tutorial-CreatingAPlayNode](IMG/Tutorial-CreatingAPlayNode.png)
+![Tutorial-CreatingAPlayNode](/IMG/Tutorial-CreatingAPlayNode.png)
 
 Let's add some tracks to this Play node. Click the Open button on the Play node to open up the Play node Timeline.
 
-![Tutorial-PlayNodeTimelineIntro.png](IMG/Tutorial-PlayNodeTimelineIntro.png)
+![Tutorial-PlayNodeTimelineIntro.png](/IMG/Tutorial-PlayNodeTimelineIntro.png)
 
 The timeline works exactly like the timeline in a Digital Audio Workstation. In the center are a series of tracks that we can add Audio Clips to. Each timeline starts with one track, but you can add another simply by dragging a clip in the timeline downwards.
 
@@ -28,14 +28,14 @@ Finally, lets drag the End of Playback marker to the end of the Audio Clips. The
 
 Your timeline should now look like this:
 
-![Tutorial-AddedAudioClips.png](IMG/Tutorial-AddedAudioClips.png)
+![Tutorial-AddedAudioClips.png](/IMG/Tutorial-AddedAudioClips.png)
 
 ## Adding events and playing  audio
 Go ahead and close the timeline. Our Play node now has audio to play, but nothing is triggering the Play node to play. Let's make an event to do that!
 
 On the Graph Inputs node, click the "+" in the Events list. A new event will appear in the list. Every event has a name, let's set ours to "Begin Play". Then, connect the output port of the event to the Play input port in the Play node. Your graph should look like this:
 
-![Tutorial-BeginPlayEvent.png](IMG/Tutorial-BeginPlayEvent.png)
+![Tutorial-BeginPlayEvent.png](/IMG/Tutorial-BeginPlayEvent.png)
 
 On the Begin Play event is a button labeled "Trigger". This button is used to manually trigger the event. Currently if we trigger the event, the Play node is activated, but no audio will play. This is because we need to tell the Play node how to play the audio - to do this, we'll use an [Audio Out](Audio-Out) node.
 
@@ -44,7 +44,7 @@ To add an Audio out node, right click anywhere in the Sound Graph Editor window 
 
 For our purposes, the default settings on the Audio Out node will be fine. We just need to send the audio from the Play node to the Audio Out by connecting the Audio Out output port of the Play Node to the Audio In input port of the Audio Out node. Your Sound Graph should now look like this:
 
-![Tutorial-ConnectingAudioOut.png](IMG/Tutorial-ConnectingAudioOut.png)
+![Tutorial-ConnectingAudioOut.png](/IMG/Tutorial-ConnectingAudioOut.png)
 
 Now, press the Trigger button on the event in the Graph Inputs node. A small window should pop up - click the Trigger button in that window. Your Play node should start playing your audio!
 

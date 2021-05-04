@@ -11,7 +11,7 @@ There are several ways to loop audio in Layers, but the easiest is to connect th
 
 So let's do that! Drag a line from the Play Finished output to the Play input. As you're dragging, you can middle-click to drop pins that reroute the line. When you're done, the Sound Graph should look like this:
 
-![Tutorial-LoopingThePlayNode](IMG/Tutorial-LoopingThePlayNode.png)
+![Tutorial-LoopingThePlayNode](/IMG/Tutorial-LoopingThePlayNode.png)
 
 Now when you manually Trigger the Begin Play Event, the Play node will keep looping. To stop execution, press the Stop Playback button in the top right of the Sound Graph editor.
 
@@ -20,17 +20,17 @@ Now that the audio is looping, let's work on layering audio. To do this, we are 
 
 To keep from cluttering up Sound Graphs, the volume control of a Play node's track is not initially accessible to other nodes. The track must be exposed. Open the Play node's timeline. To the right of each track's name is an icon - an eye with a line crossing it out. Click on the icon for each track. The icons will no longer be crossed, indicating that the track is exposed. 
 
-![The expose track button](IMG/ExposeTrackButton.png)
+![The expose track button](/IMG/ExposeTrackButton.png)
 
 Close the timeline, and take a look at the Play node. Each track exposed track is now listed in the Play node with several new outputs and inputs, including track volume.
 
-![Tutorial-ExposingTracks.png](IMG/Tutorial-ExposingTracks.png)
+![Tutorial-ExposingTracks.png](/IMG/Tutorial-ExposingTracks.png)
 
 Now that the Volume inputs for each track are exposed, let's create the variable that will control them.
 
 Click the "+" icon on the Variables List in Graph Inputs to create a new variable. Every variable has a name, and next to that name is the variable's type. Set the name to "Intensity", and the type to Number (Float).
 
-![Tutorial-AddingIntensityVariable.png](IMG/Tutorial-AddingIntensityVariable.png)
+![Tutorial-AddingIntensityVariable.png](/IMG/Tutorial-AddingIntensityVariable.png)
 
 Now that the Intensity variable is set up, let's do something with it.
 
@@ -45,7 +45,7 @@ For the first Inverse Lerp node, connect the output from the Intensity Variable 
 
 For the second Inverse Lerp node, connect the output from the Intensity Variable in the Graph Inputs node to the Value input. Then type 2 into the From input, and 3 for the To input. Then connect the Result output on the Inverse Lerp Node to the Volume input on the High Intensity Track in the Play Node. The Sound Graph should now look like this:
 
-![Tutorial-SettingUpInverseLerp.png](IMG/Tutorial-SettingUpInverseLerp.png)
+![Tutorial-SettingUpInverseLerp.png](/IMG/Tutorial-SettingUpInverseLerp.png)
 
 Press the Trigger button on the Event in the Graph Input Node, and then play with the value of the Intensity variable. See how the Medium Intensity and High Intensity tracks fade in, depending on its value? Press the Stop Playback button in the top right of the Sound Graph editor window when you are done.
 

@@ -8,7 +8,7 @@ We've now created a Sound Graph Asset, but we still need to get that Sound Graph
 
 By now, you've probably spotted the following message in the bottom left corner of the Sound Graph editor window:
 
-![Tutorial-RegenerateCode.png](IMG/Tutorial-RegenerateCode.png)
+![Tutorial-RegenerateCode.png](/IMG/Tutorial-RegenerateCode.png)
 
 It will have appeared when you created your first event on the Graph Input node. It appears whenever a change has been made to a Sound Graph that warrants code regeneration. Go ahead and click Regenerate Code to apply the changes. Note - if you have already pressed the button to get the dialog out of the way in previous steps, that's fine! Just click it if you see it now.
 
@@ -18,7 +18,7 @@ Now that code is generated, we can add a player in the scene.
 
 Add an empty Game Object to your scene, and give it a name (whatever you like; this tutorial will call it Music Player). Select that object, and then click the Add Component menu. Select Layers->Soundgraphs->The name of your graph, or search for the name of your Sound Graph. Add that component to your Game Object.
 
-![Tutorial-TheSoundGraphComponent.png](IMG/Tutorial-TheSoundGraphComponent.png)
+![Tutorial-TheSoundGraphComponent.png](/IMG/Tutorial-TheSoundGraphComponent.png)
 
 There are several options on the player we are interested in the first is the Play On Awake setting. When true, the Player will trigger the events specified in the Starting Events list when it loads. Currently, that list is empty. Press the "+" icon on the list to add an event from the Sound Graph to the list.
 
@@ -30,7 +30,7 @@ While we're back in the Sound Graph editor, lets take a look at the Intensity va
 
 Regenerate your code by clicking the dialog at the bottom left of the Sound Graph editor window. Then, close the editor, and go back to the Game Object you created. In the item you created in the Starting Events List, now exists, and the selected item is the Begin Play event. Notice also, the Intensity variable is now editable in the Player.
 
-![Tutorial-PlayerWithExposure.png](IMG/Tutorial-PlayerWithExposure.png)
+![Tutorial-PlayerWithExposure.png](/IMG/Tutorial-PlayerWithExposure.png)
 
 We're done! Enter Play Mode in Unity - your Sound Graph Player Component will begin playing.
 

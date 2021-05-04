@@ -11,7 +11,7 @@ To create a Sound Graph, right click in your project window and click Create->So
 ## Editing a Sound Graph
 To open a Sound Graph for editing, click on the Sound Graph in the Project Window, and then click Open in the Inspector Window. You can also double click on the asset to open it. The Sound Graph Editor will appear. You will notice that your Sound Graph is already populated with a node, the [Graph Input](Graph-Inputs) Node.
 
-![Tutorial-GraphInputNode.png](IMG/Tutorial-GraphInputNode.png)
+![Tutorial-GraphInputNode.png](/IMG/Tutorial-GraphInputNode.png)
 
 Nodes define the logic of the Sound Graph. Sound Graphs are like flow charts. One node of the Sound Graph triggers the next. Sometimes a node may perform an action, like playing audio, or making a computation. Other times, it may decide what branch to take. The Graph Input node is the most important - everything else in the Sound Graph depends on it. The Graph Inputs node defines variables that may be used throughout the Sound Graph. It also defines the events used to trigger logic throughout the Sound Graph, such as starting or changing playback. For more information on the Graph Input node, see the node's [documentation](Graph-Inputs).
 
