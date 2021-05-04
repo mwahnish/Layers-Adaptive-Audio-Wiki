@@ -5,7 +5,7 @@ typora-root-url:../
 
 # Update Node
 
-![Update-Node](../IMG/Update-Node.png)
+![Update-Node](/IMG/Update-Node.png)
 
 ## About
 

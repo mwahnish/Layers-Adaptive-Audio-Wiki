@@ -15,7 +15,7 @@ To begin MIDI editing, select the MIDI asset you wish to edit. If the MIDI asset
 ## The MIDI Editor
 The MIDI Editor is where MIDI assets can be edited and saved. Here are the components of the MIDI Editor
 
-![MIDIEditorExample.png](IMG/MIDIEditorExample.png)
+![MIDIEditorExample.png](/IMG/MIDIEditorExample.png)
 
 ### The Piano Roll
 In the middle of the MIDI Editor is the Piano Roll. This functions similarly to a piano roll in a Digital Audio Workstation. Notes can be dragged around the note area and resized by dragging on the note edges. To add a new note, click and drag in an empty area in the Piano Roll

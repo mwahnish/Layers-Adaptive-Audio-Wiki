@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Comparison Node
 
-![Comparison-Node](/IMG/Comparison-Node-1619727441697.png)
+![Comparison-Node](/IMG/Comparison-Node.png)
 
 ## About
 

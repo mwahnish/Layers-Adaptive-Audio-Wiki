@@ -5,7 +5,7 @@ typora-root-url:../
 
 # To String Node
 
-![Click-Track](../IMG/Click-Track.png)
+![Click-Track](/IMG/Click-Track.png)
 
 ## About
 

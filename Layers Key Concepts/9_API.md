@@ -53,6 +53,9 @@ When called, this method stops all playback on player immediately
 ### public void StopAll( Double time )
 
 When called, this method stops all playback on the player at the given [DSP Time](https://docs.unity3d.com/ScriptReference/AudioSettings-dspTime.html)
+
+
+
 Parameter Name | Type | Description
 ------------ | -------|------
 time | Double | The [DSP Time](https://docs.unity3d.com/ScriptReference/AudioSettings-dspTime.html) to schedule the stopping all playback

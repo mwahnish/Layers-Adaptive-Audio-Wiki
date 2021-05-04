@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Do If Node
 
-![Do-If-Node](/IMG/Do-If-Node-1619725313303.png)
+![Do-If-Node](/IMG/Do-If-Node.png)
 
 ## About
 

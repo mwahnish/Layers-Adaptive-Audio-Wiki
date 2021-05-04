@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Get Mixer Parameter Node
 
-![Get-Mixer-Parameter](/IMG/Get-Mixer-Parameter-1619723326282.png)
+![Get-Mixer-Parameter](/IMG/Get-Mixer-Parameter.png)
 
 ## About
 

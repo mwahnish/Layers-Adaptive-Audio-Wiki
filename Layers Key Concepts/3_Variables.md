@@ -10,6 +10,6 @@ Variables are how data is passed around a Sound Graph. There are two types of ev
 
 Variables can be Input , Output, or Unexposed. Input variables can be written to or read externally to the Sound Graph, and can be read within the Sound Graph. Output variables can be read externally to the Sound Graph, and read or written within the Sound Graph. Unexposed variables cannot be read outside of the Sound Graph, but can be read and written inside the Sound Graph
 
-![Named VS Anonymous Variables](IMG/NamedVSAnonymousVariables.png)
+![Named VS Anonymous Variables](/IMG/NamedVSAnonymousVariables.png)
 
 Many nodes use and produce anonymous variables as inputs and outputs. See the [Nodes](Nodes) documentation to learn more. Of particular note is the [Variable](Variable) node, which can both read named Sound Graph variables, or output a constant anonymous variable.

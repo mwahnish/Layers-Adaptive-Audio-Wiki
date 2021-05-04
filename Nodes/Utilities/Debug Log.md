@@ -5,7 +5,7 @@ typora-root-url:../
 
 # Debug Log Node
 
-![Debug-Log-Node](../IMG/Debug-Log-Node.png)
+![Debug-Log-Node](/IMG/Debug-Log-Node.png)
 
 ## About
 

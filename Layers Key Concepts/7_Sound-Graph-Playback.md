@@ -18,7 +18,7 @@ Sound Graph Players each make an individual copy of its source Sound Graph asset
 
 #### Editor Options
 
-![SoundGraphPlayerOverview.png](IMG/SoundGraphPlayerOverview.png)
+![SoundGraphPlayerOverview.png](/IMG/SoundGraphPlayerOverview.png)
 
 1. The Edit Button - Click this button to open up the source Sound Graph Asset for editing
 2. Don't Destroy on Load - When checked, this player won't get destroyed when a new scene is loaded
@@ -33,7 +33,7 @@ Sound Graph Players each make an individual copy of its source Sound Graph asset
 Pooled Sound Graph Players share a pool of instances of their source Sound Graph asset. When many instances of a sound graph are needed (for example, a sound effect for interacting with objects), it's best to use a pooled Sound Graph Player. Sound Graph instances are only applied to a Pooled Sound Graph Player when it's needed, and are returned when they are no longer needed. Thus, Pooled Sound Graph Players can be used all over a scene without much performance impact, since the number of Sound Graphs actually running logic and audio on those Pooled Sound Graph Players is actually much smaller than the number of players.
 
 #### Editor Options
-![PooledSoundGraphPlayerOverview.png](IMG/PooledSoundGraphPlayerOverview.png)
+![PooledSoundGraphPlayerOverview.png](/IMG/PooledSoundGraphPlayerOverview.png)
 
 1. The Edit Button - Click this button to open up the source Sound Graph Asset for editing
 2. Don't Destroy on Load - When checked, this player won't get destroyed when a new scene is loaded

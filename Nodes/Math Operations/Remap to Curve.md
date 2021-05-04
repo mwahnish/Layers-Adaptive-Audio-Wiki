@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Remap To Curve
 
-![Remap-To-Curve](/IMG/Remap-To-Curve-1619729350109.png)
+![Remap-To-Curve](/IMG/Remap-To-Curve.png)
 
 ## About
 

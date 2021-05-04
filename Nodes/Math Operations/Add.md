@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Add Node
 
-![Add-Node](/IMG/Add-Node-1619727749076.png)
+![Add-Node](/IMG/Add-Node.png)
 
 ## About
 

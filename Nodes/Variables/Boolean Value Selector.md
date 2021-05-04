@@ -5,7 +5,7 @@ typora-root-url:../
 
 # Boolean Value Selector
 
-![Boolean-Value-Selector](../IMG/Boolean-Value-Selector.png)
+![Boolean-Value-Selector](/IMG/Boolean-Value-Selector.png)
 
 ## About
 

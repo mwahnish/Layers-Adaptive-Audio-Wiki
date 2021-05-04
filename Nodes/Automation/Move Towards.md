@@ -1,6 +1,6 @@
 # Move Towards Node
 
-![Get-Mixer-Parameter](../IMG/Get-Mixer-Parameter-1619723326282.png)
+![Get-Mixer-Parameter](../IMG/Get-Mixer-Parameter.png)
 
 ## About
 
@@ -10,7 +10,7 @@ The Move Towards node shifts an input value towards a target value over time. Th
 
 ## Output Mode: Variable
 
-![Move-Towards-Variable-Mode](../IMG/Move-Towards-Variable-Mode.png)
+![Move-Towards-Variable-Mode](/IMG/Move-Towards-Variable-Mode.png)
 
 The Move Towards Node outputs values to a graph variable in this mode.
 
@@ -30,7 +30,7 @@ The Move Towards Node outputs values to a graph variable in this mode.
 
 ## Output Mode: Port
 
-![Move-Towards-Port-Mode](../IMG/Move-Towards-Port-Mode.png)
+![Move-Towards-Port-Mode](/IMG/Move-Towards-Port-Mode.png)
 
 The Move Towards Node outputs values to a port in this mode. The output value smoothly moves towards the target value
 

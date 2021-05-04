@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Lerp Node
 
-![Lerp-Node](/IMG/Lerp-Node-1619728445500.png)
+![Lerp-Node](/IMG/Lerp-Node.png)
 
 ## About
 

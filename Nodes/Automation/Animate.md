@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Animate Node
 
-![Animate Node](/IMG/Animate-Node-1619723224918.png)
+![Animate Node](/IMG/Animate-Node.png)
 
 ## About
 

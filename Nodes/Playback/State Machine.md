@@ -5,7 +5,7 @@ typora-root-url:../
 
 # State Machine
 
-![State-Machine-Node-Header](/IMG/State-Machine-Node-Header-1620058243590.png)
+![State-Machine-Node-Header](/IMG/State-Machine-Node-Header.png)
 
 ## About
 
@@ -16,7 +16,6 @@ The State Machine node works by defining a series of states and the possible tra
 The State Machine node has two different transition modes - Fade and Sequential. In Fade mode, when a transition is triggered the currently active state fades out in volume and the new state simultaneously fades in. In Sequential mode, the node waits for the currently active state to finish playing and then immediately triggers the next state.
 
 ## Fade mode
-
 ![State Machine Fade Node](/IMG/State Machine Fade Node.png)
 
 In Fade mode, the State Machine node has the following outputs and options:
@@ -92,7 +91,7 @@ In Sequential mode, the State Machine node has the following outputs and options
 
 ### States
 
-![State-Machine-State-Sequential](/IMG/State-Machine-State-Sequential-1620062172415.png)
+![State-Machine-State-Sequential](/IMG/State-Machine-State-Sequential.png)
 
 In addition to the above properties, the State Machine node contains a list of states. Here are the properties for each state in Sequential mode:
 

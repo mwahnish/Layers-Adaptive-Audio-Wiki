@@ -4,7 +4,7 @@ typora-root-url:../
 
 # MIDI Input
 
-![Midi-Input](/IMG/Midi-Input-1619729951957.png)
+![Midi-Input](/IMG/Midi-Input.png)
 
 ## About
 

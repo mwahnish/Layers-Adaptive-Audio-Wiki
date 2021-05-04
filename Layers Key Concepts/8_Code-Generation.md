@@ -10,4 +10,4 @@ Layers uses code generation to create custom Sound Graph players for every Sound
 
 Certain changes in a Sound Graph require code regeneration. Generally speaking, changes to named events and variables in the Graph Input node most often require code regeneration. Whenever code generation is required for a soundgraph in the project, a prompt will appear in the bottom left of the Sound Graph Editor Window.
 
-![CodeGenerationExample.png](IMG/CodeGenerationExample.png)
+![CodeGenerationExample.png](/IMG/CodeGenerationExample.png)

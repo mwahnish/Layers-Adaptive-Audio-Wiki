@@ -18,8 +18,9 @@ The first node in the Sound Graph is the Graph Input node. It is the only node t
 
 To add nodes to the Sound Graph, right click in the Graph editor to view all available nodes. For a full list of available nodes and their documentation, see the [Nodes](Nodes) page. To connect nodes together, just drag from the output of one node to the input of another. Note that the output and input must match type - for example, an event can only connect to an event, and a boolean can only connect to a boolean. Input and outputs are color coded, so compatibility can be seen at a glance.
 
-To move nodes, simply drag them by their header. Some nodes that are especially tall have a expand / contract symbol in the right side of their header. When contracted, all unused Inputs and Outputs will be hidden so as not to clutter the graph
-![MinimizeMaximize.png](IMG/MinimizeMaximize.png)
+To move nodes, simply drag them by their header. Some nodes that are especially tall have a expand / contract symbol in the right side of their header. When contracted, all unused Inputs and Outputs will be hidden so as not to clutter the graph.
+
+![MinimizeMaximize.png](/IMG/MinimizeMaximize.png)
 
 ## Previewing Playback
 Sound Graph playback can be previewed both in the Editor and at runtime by manually triggering events on the Graph Input node. Playback can be stopped by clicking the Stop Playback button at the top right of the Sound Graph editor window.
@@ -32,4 +33,4 @@ Note that [Sound Graph Players](Sound-Graph-Playback) will make a copy of their 
 
 The Sound Graph editor window provides an indicator in the bottom right of the window at runtime so you can check if you are viewing a runtime copy or an original asset.
 
-![RuntimeVsAssetGraph.png](IMG/RuntimeVsAssetGraph.png)
+![RuntimeVsAssetGraph.png](/IMG/RuntimeVsAssetGraph.png)

@@ -6,6 +6,8 @@ typora-root-url:../
 
 # Switch Value Selector
 
+
+
 ![Switch Value Selector](/IMG/Switch Value Selector.png)
 
 ## About

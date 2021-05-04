@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Audio Out Node
 
-![Audio-Out](/IMG/Audio-Out-1619730000433.png)
+![Audio-Out](/IMG/Audio-Out.png)
 
 ## About
 
