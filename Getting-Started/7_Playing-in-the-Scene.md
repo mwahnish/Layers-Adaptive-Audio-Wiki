@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Playing in the Scene
 
-We've now created a Sound Graph Asset, but we still need to get that Sound Graph in a scene and playing. To play a Sound Graph in a scene, a [Sound Graph Player](/Docs/Layers-Key-Concepts/7_Sound-Graph-Playback) is used. Layers generates a unique Sound Graph Player for every Sound Graph (which is why we set a code generation directory when we installed Layers). This makes the Sound Graph Player easier to control from code. For more information, see the [Code Generation](/Docs/Layers-Key-Concepts/8_Code-Generation) and [/Docs/Layers-Key-Concepts/9_API](API) documentation.
+We've now created a Sound Graph Asset, but we still need to get that Sound Graph in a scene and playing. To play a Sound Graph in a scene, a [Sound Graph Player](/Docs/Layers-Key-Concepts/7_Sound-Graph-Playback) is used. Layers generates a unique Sound Graph Player for every Sound Graph (which is why we set a code generation directory when we installed Layers). This makes the Sound Graph Player easier to control from code. For more information, see the [Code Generation](/Docs/Layers-Key-Concepts/8_Code-Generation) and [API](/Docs/Layers-Key-Concepts/9_API) documentation.
 
 By now, you've probably spotted the following message in the bottom left corner of the Sound Graph editor window:
 
