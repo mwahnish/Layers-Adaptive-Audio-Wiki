@@ -23,7 +23,7 @@ In the middle of the MIDI Editor is the Piano Roll. This functions similarly to 
 On the left hand side of the Piano Roll are series of keys, meant to make identifying notes easier. Natural notes are labeled, and clicking on each key will sound out the note.
 
 ### The End of Playback Marker
-In addition to Notes, the Piano Roll also contains the end of playback marker. This marker is a vertical line representing the end of playback for the file. Any notes past this point will be ignored when played back in nodes, such as the [Play](Play) node.
+In addition to Notes, the Piano Roll also contains the end of playback marker. This marker is a vertical line representing the end of playback for the file. Any notes past this point will be ignored when played back in nodes, such as the [Play](/Docs/Nodes/Playback/Play) node.
 
 ### Time Signature and BPM Area
 At the top of the window is the BPM and Time signature bar. Time signatures and BPMs control the rate of playback for the MIDI asset, and can be used in conjunction with snapping to align timeline elements. The left side of the bar contains the starting BPM and the starting time signature for the timeline. BPM and time signature change markesrs can be used to change the BPM or time signature mid-track. To add a new marker right click on the bar (at the top for BPM, at the bottom for time signatures) and add the marker.
@@ -37,7 +37,7 @@ At the bottom right of the MIDI Editor are the snapping controls. Snapping can b
 ### Playback controls
 The bottom left of the timeline window contains the timeline's playback controls. Playback can be previewed both in edit mode and play mode.
 
-Next to the play back controls are the global settings for Audio Preview in the MIDI Window. Any Sound Graph can be used to preview MIDI in a MIDI Window. The only requirement is that the Sound Graph have one named Sound Graph Event that triggers the playback of a note. When the MIDI Window triggers that event to play a note, that MIDI notes information will be included with that event. See [Graph Inputs](Graph-Inputs) for more information.
+Next to the play back controls are the global settings for Audio Preview in the MIDI Window. Any Sound Graph can be used to preview MIDI in a MIDI Window. The only requirement is that the Sound Graph have one named Sound Graph Event that triggers the playback of a note. When the MIDI Window triggers that event to play a note, that MIDI notes information will be included with that event. See [Graph Inputs](/Docs/Nodes/Signal-Sources/Graph-Inputs) for more information.
 
 ### Other controls
 * Hold shift and click to select multiple items
