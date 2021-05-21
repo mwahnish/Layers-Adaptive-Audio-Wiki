@@ -36,4 +36,4 @@ We're done! Enter Play Mode in Unity - your Sound Graph Player Component will be
 
 ## Next Steps
 
-Take a look at the [API](/Docs/Layers-Key-Concepts/9_API) documentation to see how the events and variables you create are accessible from code. Then, take a look at the [Layers Key Concepts](/Docs/Layers-Key-Concepts/Layers-Key-Concepts) page to read some deep-dives on the different systems that comprise Layers. Thanks for reading!
+Take a look at the [API](/Docs/Layers-Key-Concepts/9_API) documentation to see how the events and variables you create are accessible from code. Then, take a look at the [Layers Key Concepts](/Docs/Layers-Key-Concepts/0_Layers-Key-Concepts) page to read some deep-dives on the different systems that comprise Layers. Thanks for reading!
