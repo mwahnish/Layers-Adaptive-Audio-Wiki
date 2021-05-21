@@ -4,7 +4,7 @@ typora-root-url:../
 
 # Playing in the Scene
 
-We've now created a Sound Graph Asset, but we still need to get that Sound Graph in a scene and playing. To play a Sound Graph in a scene, a [Sound Graph Player](Sound-Graph-Playback) is used. Layers generates a unique Sound Graph Player for every Sound Graph (which is why we set a code generation directory when we installed Layers). This makes the Sound Graph Player easier to control from code. For more information, see the [Code Generation](Code-Generation) and [API](API) documentation.
+We've now created a Sound Graph Asset, but we still need to get that Sound Graph in a scene and playing. To play a Sound Graph in a scene, a [Sound Graph Player](/Docs/Layers-Key-Concepts/7_Sound-Graph-Playback) is used. Layers generates a unique Sound Graph Player for every Sound Graph (which is why we set a code generation directory when we installed Layers). This makes the Sound Graph Player easier to control from code. For more information, see the [Code Generation](/Docs/Layers-Key-Concepts/8_Code-Generation) and [/Docs/Layers-Key-Concepts/9_API](API) documentation.
 
 By now, you've probably spotted the following message in the bottom left corner of the Sound Graph editor window:
 
@@ -26,7 +26,7 @@ Here, we've run into a problem - the list item says "No events are currently exp
 
 Take another look at the Begin Play event in the Graph Input node. There is checkbox called "Expose", go ahead and set it to true.
 
-While we're back in the Sound Graph editor, lets take a look at the Intensity variable we created. We're going to want to access the variable from the player as well, and it turns out we have the same problem here as with events - they need to be exposed to be accessed outside of the Sound Graph. Set the variable from "Do Not Expose" to "As Input". For more on what that means, see the [Variables](Variables) documentation.
+While we're back in the Sound Graph editor, lets take a look at the Intensity variable we created. We're going to want to access the variable from the player as well, and it turns out we have the same problem here as with events - they need to be exposed to be accessed outside of the Sound Graph. Set the variable from "Do Not Expose" to "As Input". For more on what that means, see the [Variables](/Docs/Layers-Key-Concepts/3_Variables) documentation.
 
 Regenerate your code by clicking the dialog at the bottom left of the Sound Graph editor window. Then, close the editor, and go back to the Game Object you created. In the item you created in the Starting Events List, now exists, and the selected item is the Begin Play event. Notice also, the Intensity variable is now editable in the Player.
 
