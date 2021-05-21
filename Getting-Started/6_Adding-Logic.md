@@ -37,7 +37,7 @@ Now that the Intensity variable is set up, let's do something with it.
 ## Controlling the track volume with nodes
 Our goal is to always keep the Low Intensity track playing, to layer in the Medium Intensity track when the Intensity variable is equal to 2, and layer in the High Intensity track when the Intensity variable is equal to 3. The easiest way to accomplish this effect is with the Inverse Lerp node.
 
-The [Inverse Lerp](Inverse-Lerp) node takes in 3 numeric inputs, a Value, a From, and a To. It takes a Value, a number between From and To, and creates an output from 0 to 1. Let's walk through setting up two Inverse Lerp nodes in the Sound Graph, and then discuss how it works in detail.
+The [Inverse Lerp](/Docs/Nodes/Math-Operations/Inverse-Lerp) node takes in 3 numeric inputs, a Value, a From, and a To. It takes a Value, a number between From and To, and creates an output from 0 to 1. Let's walk through setting up two Inverse Lerp nodes in the Sound Graph, and then discuss how it works in detail.
 
 To add an Inverse Lerp node, right click anywhere in the Sound Graph editor window and select Math Operations -> Inverse Lerp. Go ahead and add two to your Sound Graph.
 
