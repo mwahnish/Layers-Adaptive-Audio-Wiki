@@ -7,7 +7,7 @@ typora-root-url:../
 Lets add and play some audio!
 
 ## Adding a Play node
-First, lets add a [Play node](Play-Nodes) to the graph. As the name suggests, Play nodes are responsible for playing back Audio in Layers. They can also playback other types of assets, but that's beyond the scope of this tutorial - check out the [Play node documentation](Play-Nodes) for more information.
+First, lets add a [Play node](/Docs/Layers-Key-Concepts/4_Play-Nodes) to the graph. As the name suggests, Play nodes are responsible for playing back Audio in Layers. They can also playback other types of assets, but that's beyond the scope of this tutorial - check out the [Play node documentation](/Docs/Layers-Key-Concepts/4_Play-Nodes) for more information.
 
 To add a Play node to the Sound Graph, right click anywhere in the Sound Graph, and click Playback -> Play. A play node will appear in your Sound Graph.
 
@@ -37,10 +37,10 @@ On the Graph Inputs node, click the "+" in the Events list. A new event will app
 
 ![Tutorial-BeginPlayEvent.png](/IMG/Tutorial-BeginPlayEvent.png)
 
-On the Begin Play event is a button labeled "Trigger". This button is used to manually trigger the event. Currently if we trigger the event, the Play node is activated, but no audio will play. This is because we need to tell the Play node how to play the audio - to do this, we'll use an [Audio Out](Audio-Out) node.
+On the Begin Play event is a button labeled "Trigger". This button is used to manually trigger the event. Currently if we trigger the event, the Play node is activated, but no audio will play. This is because we need to tell the Play node how to play the audio - to do this, we'll use an [Audio Out](Docs/Nodes/Playback/Audio-Out) node.
 
 ## Adding the Audio Out
-To add an Audio out node, right click anywhere in the Sound Graph Editor window and select Playback -> Audio Out. Audio Out nodes define how audio is played, including location, volume, panning, spatialization, etc. For more information, see the [Audio Out documentation page](Audio-Out).
+To add an Audio out node, right click anywhere in the Sound Graph Editor window and select Playback -> Audio Out. Audio Out nodes define how audio is played, including location, volume, panning, spatialization, etc. For more information, see the [Audio Out documentation page](Docs/Nodes/Playback/Audio-Out).
 
 For our purposes, the default settings on the Audio Out node will be fine. We just need to send the audio from the Play node to the Audio Out by connecting the Audio Out output port of the Play Node to the Audio In input port of the Audio Out node. Your Sound Graph should now look like this:
 
