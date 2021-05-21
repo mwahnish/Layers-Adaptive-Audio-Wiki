@@ -42,4 +42,4 @@ Pooled Sound Graph Players share a pool of instances of their source Sound Graph
 
 
 ## Creating Player Components
-Custom player components are generated for every Sound Graph for easier programming. Each generated player is named after their Sound Graph. Note that a Sound Graph can either be used in a pooled player or a regular player, but can't be used in both. To choose which kind of player is generated for a Sound Graph, check or uncheck Pool Sound Graph in that graph's [Graph Input Node](Graph-Inputs). To learn more about code Generation, see the [code generation page](Code-Generation)
+Custom player components are generated for every Sound Graph for easier programming. Each generated player is named after their Sound Graph. Note that a Sound Graph can either be used in a pooled player or a regular player, but can't be used in both. To choose which kind of player is generated for a Sound Graph, check or uncheck Pool Sound Graph in that graph's [Graph Input Node](/Docs/Nodes/Signal-Sources/Graph-Inputs). To learn more about code Generation, see the [code generation page](/Docs/Layers-Key-Concepts/8_Code-Generation)
