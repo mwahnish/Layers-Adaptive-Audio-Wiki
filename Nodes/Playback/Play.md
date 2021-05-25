@@ -6,7 +6,7 @@ typora-root-url:../
 
 
 
-![Play Node](/IMG/Play Node.png)
+![Play Node](/IMG/Play-Node.png)
 
 ## About
 
