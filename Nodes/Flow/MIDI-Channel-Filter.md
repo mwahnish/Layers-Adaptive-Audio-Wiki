@@ -8,7 +8,7 @@ typora-root-url:../
 
 ## About
 
-This node filters incoming events by a MIDI Parameter. This node requires the incoming event to contain a MIDI Data event parameter. See [Events](/Layers-Key-Concepts/2_Events.md) for more information.
+This node filters incoming events by a MIDI Parameter. This node requires the incoming event to contain a MIDI Data event parameter. See [Events](/Layers-Key-Concepts/2_Events) for more information.
 
 ## Inputs
 Input | Type | Description
