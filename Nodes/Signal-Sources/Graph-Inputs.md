@@ -8,7 +8,7 @@ typora-root-url:../
 
 ## About
 
-The Graph Inputs node is the entry point for data and events into the Sound Graph. All named variables and events for the Sound Graph are defined on this node. For more information, see the [Events](/Layers In Detail/2_Events.md) and [Variables](/Layers In Detail/3_Variables.md) reference pages. Only one Graph Input node can be created per graph, and Graph Input nodes cannot be deleted.
+The Graph Inputs node is the entry point for data and events into the Sound Graph. All named variables and events for the Sound Graph are defined on this node. For more information, see the [Events](/Docs/Layers-Key-Concepts/2_Events) and [Variables](/Docs/Layers-Key-Concepts/3_Variables) reference pages. Only one Graph Input node can be created per graph, and Graph Input nodes cannot be deleted.
 
 ## Node Outputs
 Input | Type | Description
@@ -18,8 +18,8 @@ Update | Event | This output is triggered every frame, both at runtime and in-ed
 ## Node Options
 Output | Type| Description
 ------------ | -------|------
- Globals          | Globals Asset | Globals Assets contain variables and events that are shared across Sound Graphs. See [Globals](/Layers In Detail/12_Globals.md) for details 
-Pool Sound Graph | Toggle | Controls whether players generated for this sound Graph are pooled. See [Sound Graph Playback](/Layers In Detail/7_Sound-Graph-Playback.md) for details 
+ Globals          | Globals Asset | Globals Assets contain variables and events that are shared across Sound Graphs. See [Globals](/Docs/Layers-Key-Concepts/12_Globals) for details 
+Pool Sound Graph | Toggle | Controls whether players generated for this sound Graph are pooled. See [Sound Graph Playback](/Docs/Layers-Key-Concepts/7_Sound-Graph-Playback) for details 
 
 ## Variables
 
