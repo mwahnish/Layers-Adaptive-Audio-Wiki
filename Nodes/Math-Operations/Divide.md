@@ -30,7 +30,7 @@ Result | Varies | The result of this operation
 | Unnamed | Type Selector | The type of the numerators and denominators for this division operation |
 
 ## Mode 2
-![Divide-Node-Mode-2](/IMG/Divide-Node-Mode-2-1619727964973.png)
+![Divide-Node-Mode-2](/IMG/Divide-Node-Mode-2.png)
 
 This mode is used for Vector3 types
 
