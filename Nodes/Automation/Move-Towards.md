@@ -1,6 +1,10 @@
+---
+typora-root-url:../
+---
+
 # Move Towards Node
 
-![Get-Mixer-Parameter](../IMG/Get-Mixer-Parameter.png)
+![Get-Mixer-Parameter](/IMG/Get-Mixer-Parameter.png)
 
 ## About
 
