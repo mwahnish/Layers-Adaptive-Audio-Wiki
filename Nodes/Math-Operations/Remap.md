@@ -17,7 +17,7 @@ This node takes an input value between a minimum and maximum and transforms it t
 | ----------- | ----- | ------------------------------- |
 | Input Value | Float | The input value to be remapped  |
 | Input Min   | Float | The minimum of the input range  |
-| Input Max   | Float | The maximumof the input range   |
+| Input Max   | Float | The maximum of the input range  |
 | Output Min  | Float | The minimum of the output range |
 | Output Max  | Float | The maximum of the output range |
 
